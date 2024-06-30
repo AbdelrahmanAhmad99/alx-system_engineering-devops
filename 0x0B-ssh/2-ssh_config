@@ -1,0 +1,5 @@
+# ssh config file
+Host *111
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school
+      User ubuntu
